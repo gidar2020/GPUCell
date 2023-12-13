@@ -1,5 +1,5 @@
 # **GPUCell**
-GPUCell is a GPU-accelerated program that simulates Cellular scale blood flow using the smoothed dissipative particle dynamics(SDPD) method.
+GPUCell is a GPU-accelerated program that simulates cellular scale blood flow using the smoothed dissipative particle dynamics(SDPD) method.
 
 GPUCell(https://github.com/gidar2020/GPUCell.git) was developed by Ye's group to simulate cellular behavior, which includes cell aggregation and cell deformation.
 
