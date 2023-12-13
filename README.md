@@ -7,7 +7,7 @@ GPUCell(https://github.com/gidar2020/GPUCell.git) was developed by Ye's group to
 ### main.cu/.cuh
 The main loop of the program.
 ### Particle.cu/.cuh
-CPU functions implementation , including reading and output data, and setting the initial state of the particle.
+CPU functions implementation, including reading and output data, and setting the initial state of the particle.
 ### ParticleGPU.cu/.cuh
 GPU kernel functions implementation, including SDPD force, cell deformation, aggregation force, etc.
 ### ConfigDomain.cu/.cuh
